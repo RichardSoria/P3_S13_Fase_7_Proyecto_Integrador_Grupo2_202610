@@ -1,4 +1,4 @@
 {
-    "MONGO_URI": "mongodb+srv://user_mongodb_django:bR33i9yXngxMe6hO@clusterudla01.h3wud0e.mongodb.net/?retryWrites=true&w=majority&appName=ClusterUDLA01",
-    "DB_NAME": "CATEQUESIS"
+    "MONGO_URI": "",
+    "DB_NAME": ""
 }
